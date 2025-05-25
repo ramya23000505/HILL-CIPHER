@@ -122,9 +122,7 @@ int main()
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/38f066db-ac91-4e4c-ba4a-0d83700dcce2)
-
-
+![image](https://github.com/user-attachments/assets/944a8a08-e2dd-47ed-a33e-8f6c23d9cba1)
 
 ## RESULT
 
